@@ -16,7 +16,7 @@ more text with two line breaks between.
 
 This paragraph has some `variable` inline code.
 
-This paragraph has some "variable" inline code.
+This paragraph has some ``Variable" inline code.
 
 ```html
 <p>A paragraph example</p>
