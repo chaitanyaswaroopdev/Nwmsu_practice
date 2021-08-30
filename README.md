@@ -40,3 +40,7 @@ Some paragraph with text.
 This is being * created * on a ** Friday ** ~~Saturday~~.
 
 ---
+
+-[ ] item 1
+-[x] item 2 (it’s done!)
+-[ ] item 3
